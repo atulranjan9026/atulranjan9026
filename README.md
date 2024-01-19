@@ -1,8 +1,8 @@
-[![MasterHead](https://qph.cf2.quoracdn.net/main-qimg-79159f094a1c2d76099f2c7ffa34591d)](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)
+[![MasterHead](https://qph.cf2.quoracdn.net/main-qimg-79159f094a1c2d76099f2c7ffa34591d)]
 
 <h1 align="center">Hi 👋, I'm Atul Aanjan</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
-
+(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atulranjan9026&label=Profile%20views&color=0e75b6&style=flat" alt="atulranjan9026" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atulranjan9026" alt="atulranjan9026" /></a> </p>
