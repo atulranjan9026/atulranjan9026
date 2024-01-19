@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+[![MasterHead](https://st4.depositphotos.com/18014766/28572/i/450/depositphotos_285723608-stock-photo-full-stack-developer-with-digital.jpg)
 
 ### Hi there 👋
 
