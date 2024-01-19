@@ -1,4 +1,4 @@
-[![MasterHead](https://st4.depositphotos.com/18014766/28572/i/450/depositphotos_285723608-stock-photo-full-stack-developer-with-digital.jpg)
+[![MasterHead](https://www.interviewbit.com/blog/wp-content/uploads/2021/07/fs2d1-1-1024x417.jpg)
 
 ### Hi there 👋
 
