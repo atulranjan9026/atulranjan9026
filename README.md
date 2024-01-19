@@ -1,4 +1,4 @@
-[![MasterHead](https://www.interviewbit.com/blog/wp-content/uploads/2021/07/fs2d1-1-1024x417.jpg)
+[![MasterHead](https://qph.cf2.quoracdn.net/main-qimg-79159f094a1c2d76099f2c7ffa34591d)](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)
 
 <h1 align="center">Hi 👋, I'm Atul Aanjan</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
