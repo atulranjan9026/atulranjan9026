@@ -9,14 +9,18 @@
 
 <p align="left"> <a href="https://twitter.com/atulst825" target="blank"><img src="https://img.shields.io/twitter/follow/atulst825?logo=twitter&style=for-the-badge" alt="Atul Ranjan"  </p>
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atulranjan9026" alt="atulranjan9026" /></a> </p>
-
+- 🔭 I’m currently working on **ReactJs**
+- 
 - 🌱 I’m currently learning **React Native**
 
+- 💬 Ask me about **MEARN**
+- 
+- - 📫 How to reach me **atulst825@gmail.com**
+     
+-⚡ Fun fact **I am Funny**
+-
 - 👨‍💻 All of my projects are available at [https://65a9158c0930ef075d8d345c--loquacious-banoffee-a2bcfe.netlify.app/](https://65a9158c0930ef075d8d345c--loquacious-banoffee-a2bcfe.netlify.app/)
 
-- 📫 How to reach me **atulst825@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1CCgDuOM7C9ocNi7C1RtncYwNjmzi-kD7/view?usp=sharing](https://drive.google.com/file/d/1CCgDuOM7C9ocNi7C1RtncYwNjmzi-kD7/view?usp=sharing)
 
