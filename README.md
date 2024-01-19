@@ -14,7 +14,8 @@
 - 💬 Ask me about **MEARN**
 - 📫 How to reach me **atulst825@gmail.com**
 - ⚡ Fun fact **I am Funny**
-- 👨‍💻 All of my projects are available at [https://65a9158c0930ef075d8d345c--loquacious-banoffee-a2bcfe.netlify.app/](https://65a9158c0930ef075d8d345c--loquacious-banoffee-a2bcfe.netlify.app/)
+- 👨‍💻 All of my projects are available at : [Live Website](https://65a954e32d1d812ae4c2376a--regal-chimera-62b661.netlify.app/)
+- 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1CCgDuOM7C9ocNi7C1RtncYwNjmzi-kD7/view?usp=sharing](https://drive.google.com/file/d/1CCgDuOM7C9ocNi7C1RtncYwNjmzi-kD7/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
