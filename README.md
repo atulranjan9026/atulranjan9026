@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **ReactJs**
 - 🌱 I’m currently learning **React Native**
-- 💬 Ask me about **MEARN**
+- 💬 Ask me about **MERN**
 - 📫 How to reach me **atulst825@gmail.com**
 - ⚡ Fun fact **I am Funny**
 - 👨‍💻 Portfolio  [Live Website](https://65a954e32d1d812ae4c2376a--regal-chimera-62b661.netlify.app/)
