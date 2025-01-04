@@ -10,7 +10,7 @@
 <p align="left"> <a href="https://twitter.com/atulst825" target="blank"><img src="https://img.shields.io/twitter/follow/atulst825?logo=twitter&style=for-the-badge" alt="Atul Ranjan"  </p>
 
 - 🔭 I’m currently working on **ReactJs**
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **AWS**
 - 💬 Ask me about **MERN**
 - 📫 How to reach me **atulranjan1693@gmail.com**
 - ⚡ Fun fact **I am Funny**
